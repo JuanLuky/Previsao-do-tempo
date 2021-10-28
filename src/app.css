@@ -1,0 +1,70 @@
+body {
+    background: linear-gradient(to bottom, #396e77 0%, #d0e7f1 100%);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.banner {
+    width: 100%;
+}
+
+.container {
+    padding: 30px;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    margin: auto auto 13px auto;
+}
+.temperatura {
+    font-size:3.5rem;
+}
+.text {
+    margin-top: 10px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-weight: 500;
+}
+.text2 {
+    margin-top: 10px;
+    margin-left: 1rem;
+    margin-right: 2rem;
+    font-weight: 500;
+}
+p {
+    font-size:17px;
+}
+.text-temp {
+    display: flex;
+    align-items: center;
+}
+.bar {
+    margin-top: -7px;
+    font-size:4rem;
+    font-weight: 200;
+}
+
+
+@media (max-width:550px) {
+    .container {
+        padding: 40px;
+    }
+    .text {
+        margin-top: 10px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        font-weight: 500;
+    }
+    
+    .text1 {
+        font-size:20px;
+    }
+    .text2 {
+        margin: auto;
+        font-size:16px;
+    }
+    .temperatura {
+        font-size:2.5rem;
+    }
+}
