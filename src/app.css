@@ -1,11 +1,11 @@
 body {
-    background: linear-gradient(to bottom, #396e77 0%, #d0e7f1 100%);
+    height:auto;
+    background: linear-gradient(to bottom, #3d6992 0%, #ffffff 100%);
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 .banner {
-    width: 100%;
+    height: 100vh;
 }
 
 .container {
