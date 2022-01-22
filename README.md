@@ -6,6 +6,7 @@ Usando react e uma API responsável pela previsão.
 
 ### Como ultilizar :
 - Faça o clone do projeto
+- Abra o VScode, acesse o projeto
 - Abra o terminal do VScode
-- npm start
+- Execute o comando npm start
 - Pronto, simples e fácil.
